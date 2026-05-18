@@ -2,13 +2,13 @@
 
 Better Life 4 U is a holistic personal development and counseling program designed to guide individuals through deep emotional and life transformations. The program addresses trauma recovery, emotional healing, marriage counseling, parenting guidance, and life purpose discovery. It combines professional counseling, educational knowledge, and specialized therapeutic sessions to help clients release negative experiences and build a more fulfilling life. The brand carries a warm, empowering, and hopeful tone — focused on healing, growth, and positive change.
 
-Source: https://example.com
+Source: https://better-life-4-u.zappy5.app
 
 ---
 
 ## Heal, Grow &amp; Transform Your Life — Better Life 4 U
 
-URL: https://example.com
+URL: https://better-life-4-u.zappy5.app
 Description: Start your journey to emotional freedom today. Better Life 4 U offers couples marriage counseling, trauma recovery, and life purpose coaching to help you build the life you deserve.
 
 Heal, Grow & Transform Your Life — Better Life 4 U
@@ -854,7 +854,7 @@ Privacy Policy   •   Terms & Conditions   •   Accessibility   •   Generate
 
 ## Privacy Policy
 
-URL: https://example.com/privacy
+URL: https://better-life-4-u.zappy5.app/privacy
 Description: Our privacy policy - how we collect, use, and protect your information
 
 Privacy Policy
@@ -1055,7 +1055,7 @@ Privacy Policy   •   Terms & Conditions   •   Accessibility   •   Generate
 
 ## Accessibility Statement
 
-URL: https://example.com/accessibility
+URL: https://better-life-4-u.zappy5.app/accessibility
 Description: Our accessibility statement - our commitment to digital accessibility
 
 Accessibility Statement
@@ -1262,7 +1262,7 @@ Privacy Policy   •   Terms & Conditions   •   Accessibility   •   Generate
 
 ## Terms & Conditions
 
-URL: https://example.com/terms
+URL: https://better-life-4-u.zappy5.app/terms
 Description: Terms of service - user rights and obligations
 
 Terms & Conditions
