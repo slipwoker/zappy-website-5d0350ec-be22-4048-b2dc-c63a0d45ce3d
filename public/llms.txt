@@ -1,0 +1,69 @@
+# Better Life 4 U — Generative Engine Optimization Map
+
+> Better Life 4 U is a holistic personal development and counseling program designed to guide individuals through deep emotional and life transformations. The program addresses trauma recovery, emotional healing, marriage counseling, parenting guidance, and life purpose discovery. It combines professional counseling, educational knowledge, and specialized therapeutic sessions to help clients release negative experiences and build a more fulfilling life. The brand carries a warm, empowering, and hopeful tone — focused on healing, growth, and positive change.
+
+---
+
+## Pages
+
+### Home
+https://better-life-4-u-5d0350ec.zappy5.app
+Start your journey to emotional freedom today. Better Life 4 U offers couples marriage counseling, trauma recovery, and life purpose coaching to help you build the life you deserve.
+
+## Legal & Policy
+
+### Privacy Policy
+https://better-life-4-u-5d0350ec.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://better-life-4-u-5d0350ec.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://better-life-4-u-5d0350ec.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://better-life-4-u-5d0350ec.zappy5.app
+- Endpoint: https://better-life-4-u-5d0350ec.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Better Life 4 U
+Better Life 4 U is a holistic personal development and counseling program designed to guide individuals through deep emotional and life transformations. The program addresses trauma recovery, emotional healing, marriage counseling, parenting guidance, and life purpose discovery. It combines professional counseling, educational knowledge, and specialized therapeutic sessions to help clients release negative experiences and build a more fulfilling life. The brand carries a warm, empowering, and hopeful tone — focused on healing, growth, and positive change.
+
+## Target Audience
+- Individuals dealing with trauma, bad emotions, marriage issues, parenting challenges, and those seeking life purpose
+- Trauma and Emotionally Recovering Individuals
+- Couples in Marital Crisis
+- Purpose-Seeking Professionals
+- People who desire to be more powerful and have more self confidence
+- People who want to change their lives and make them better
+
+## Industry
+Mental Health & Life Coaching
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://better-life-4-u-5d0350ec.zappy5.app/sitemap.xml
+- Robots: https://better-life-4-u-5d0350ec.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://better-life-4-u-5d0350ec.zappy5.app/llms-full.txt
