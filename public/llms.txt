@@ -28,7 +28,10 @@ Information about WCAG compliance and accessibility features.
 
 ## How to Contact Us
 
-- (No contact details configured yet.)
+- Email: shelley@a2b-infra.com
+- Phone: +17276431767
+- Phone (tel): tel:+17276431767
+- Address: 917 Turner St Unit B, Clearwater, Florida, 33756, USA
 
 ### Contact form
 - URL: https://example.com
